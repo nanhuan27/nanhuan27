@@ -1,13 +1,12 @@
-### Hi, I'm Jolly.Liu. 👋
+### Hi, I'm 南欢. 👋
 
-- 🔭 I’m now working for TAL.
-- 🌱 I’m a pupil of front-end learning. 
-- 🤔 I’m currently coding in Javascript PHP and C#.
-- ❤️ I like playing Onmyoji 🌩 and Crazy-racing Kart-rider 🚗.
-- 💬 Be free to ask me about anything [here](https://github.com/ThinkingThigh/ThinkingThigh/issues).
+- 🔭 大二学生
+- 🌱 一个人哼哧哼哧在网安领域到处转悠。 
+- 🤔 C、Java、python、HTML都学了一点，打算更深入的学习。
+- ❤️ 对编程有一定的兴趣，运行出代码和解出CTF题时都很快乐！
+- 💬  最近刚接触GitHub，许多东西都还在改进中。如果有任何不对的地方欢迎指正
 
-### My Contributions
-![](https://raw.githubusercontent.com/thinkingthigh/thinkingthigh/main/assets/github-contribution-grid-snake.svg)
+## 📫 联系方式
+* 纯小白一枚，如果我的操作有任何不对的地方对您造成了困扰，就请联系我，我马上改！
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ThinkingThigh&show_icons=true&hide_border=true">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThinkingThigh&hide_border=true">
+  QQ：3480748997
